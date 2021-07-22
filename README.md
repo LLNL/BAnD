@@ -12,3 +12,4 @@
 ## Pre-trained weights:
 - Weights of BAnD model pre-trained on a large dataset of fMRI data: Human Connectome Project.
 - We're releasing the top 3 weights in terms of validation loss. We recommend using the best weight but one can potentially average the 3 sets of weights to get some ensemble effects.
+- See Releases for weights: https://github.com/LLNL/BAnD/releases
